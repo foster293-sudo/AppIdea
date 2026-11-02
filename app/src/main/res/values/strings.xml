@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mindnest</string>
+    <string name="tile_label">Capture idea</string>
+    <string name="shortcut_capture_short">Capture</string>
+    <string name="shortcut_capture_long">Capture a thought</string>
+</resources>
